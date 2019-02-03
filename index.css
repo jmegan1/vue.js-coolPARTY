@@ -1,0 +1,19 @@
+html, body {
+    font-family: monospace;
+    color: black;
+    background-color: gold;
+    margin: 0;
+    padding: 0;
+}
+
+.dark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  padding-left: 10px;
+  margin: 0;
+  color: gold;
+  background-color: black;
+}
